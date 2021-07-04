@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: cyan;
+}
+
+h1 {
+    color: darkred;
+    border-style: solid;
+    border-color: black;
+}
+
+img {
+    width: 300;
+    height: 300;
+    border-style: ridge;
+        border-color: black;
+}
